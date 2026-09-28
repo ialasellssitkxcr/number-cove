@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D turquoise spiral seashell, centered, smooth teal to white radial gradient background, crisp studio lighting, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, deep underwater scene, dark teal and navy blue water, soft light rays from above, faint bokeh bubbles, heavy vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, sunlit shallow cove seen from above, bright turquoise water, pale sand, gentle white foam lines, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred pale sand and shallow turquoise water, very low contrast, pastel, designed for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result background, calm sunlit turquoise lagoon with soft foam and pale sand, low contrast, dreamy, no text, no UI elements"
+    },
+    {
+      "name": "sprite_shell",
+      "type": "sprite",
+      "prompt": "One single cute cartoon turquoise spiral seashell, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_shell_gold",
+      "type": "sprite",
+      "prompt": "One single cute cartoon golden spiral seashell, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_rock",
+      "type": "sprite",
+      "prompt": "One single cute cartoon grey sea rock boulder, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}
